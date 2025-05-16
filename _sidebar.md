@@ -1,1 +1,1 @@
-# index to go here
+OpenGrow Project 🌱

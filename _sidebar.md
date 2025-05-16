@@ -1,1 +1,2 @@
 OpenGrow Project 🌱
+- [Home](home)

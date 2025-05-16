@@ -12,6 +12,12 @@ This webpage will be made to describe the free designs available for the system 
 Here's a snapshot of the self-contained circulating aquaponics system.  By omitting the aquarium, this can be simplified into a hydroponics system.
 ![rendering of the opengrow system](img/img_openGrow1.jpg)
 
+## Diagrams
+To see diagrams and functional details, they are posted in the /docs folder.
+* [See PDF Diagrams](https://github.com/davidmalawey/openGrow/tree/9d3fc9a3640a90e3aab40f5fc0db9f472559e833/docs)
+
+Preview image of the diagrams listed above, in PDF files.
+![diagram preview image](img/img_diagram1.jpg)
 
 ## More Projects
 >

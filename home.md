@@ -19,9 +19,9 @@ To see diagrams and functional details, they are posted in the /docs folder.
 * [See PDF Diagrams](https://github.com/davidmalawey/openGrow/tree/9d3fc9a3640a90e3aab40f5fc0db9f472559e833/docs)
 
 Preview image of the diagrams listed above, in PDF files.
--![diagram preview image](img/img_overview1.jpg)
--![diagram page2](img/img_overview2.jpg)
--![diagram page2](img/img_overview2.jpg)
+- ![diagram preview image](img/img_overview1.jpg)
+- ![diagram page2](img/img_overview2.jpg)
+- ![diagram page2](img/img_overview2.jpg)
 
 ## More Projects
 >

@@ -1,4 +1,4 @@
 OpenGrow Project 🌱
 - [Home](home)
-- [Videso](videos)
+- [Videos](videos)
 - [Research](research)

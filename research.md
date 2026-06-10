@@ -10,5 +10,5 @@ has a full document authored in 2005 by Travis Hughey.  As of 2018 this was one 
 * list the actual components of the design
 * tell a story AFTER operating multiple seasons
 * describe the challenges, highlights, and design elements with PHOTOS.
-* download the [BarrelPonics Manual PDF](abc)
+* download the [BarrelPonics Manual PDF](https://github.com/davidmalawey/openGrow/blob/b41253418fe4597de12dad7861d77928c70d4b18/docs/2005_BarrelponicsManual.pdf)
   

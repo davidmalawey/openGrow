@@ -11,7 +11,10 @@ The description of design elaborated in this page.  The key unique element is th
 > _it has all this description in one [small pdf file here](docs/abc)
 >
 
-
+- ![system overall](img/system_main.jpg)
+- ![system bricks](img/system_bricks.jpg)
+- ![system pots](img/system_pots.jpg)
+  
 ## Features 
 These are the features of my aquaponics design and the problems they solve. 
 

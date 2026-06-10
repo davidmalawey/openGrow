@@ -22,6 +22,6 @@ Before starting my build, I made several visits to aquaponics and hydroponics fa
 
 * Find [Joe Masabni, PhD on Youtube](https://www.youtube.com/@joemasabni9709)
 
--![masabni in greenhouse](img/img_masabni1.jpg)
--![masabnis workshop slides](img/img_masabni2.jpg)
--![masabnis workshop slides](img/img_masabni3.jpg)
+- ![masabni in greenhouse](img/img_masabni1.jpg)
+- ![masabnis workshop slides](img/img_masabni2.jpg)
+- ![masabnis workshop slides](img/img_masabni3.jpg)

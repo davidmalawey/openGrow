@@ -8,9 +8,8 @@ This webpage will be made to describe the free designs available for the system 
 ## Designs
 * Find 3D Models for the designs featured in the video above, on grabCAD
 * Explore the [Model Here](https://grabcad.com/library/opengrow-1)
-
-Here's a snapshot of the self-contained circulating aquaponics system.  By omitting the aquarium, this can be simplified into a hydroponics system.
-![rendering of the opengrow system](img/img_openGrow1.jpg)
+* Below, see a snapshot of the self-contained circulating aquaponics system
+* By omitting the aquarium, this can be simplified into a hydroponics setup
 
 ---
 
@@ -18,9 +17,9 @@ Here's a snapshot of the self-contained circulating aquaponics system.  By omitt
 To see diagrams and functional details, they are posted in the /docs folder.
 * [See PDF Diagrams](https://github.com/davidmalawey/openGrow/tree/9d3fc9a3640a90e3aab40f5fc0db9f472559e833/docs)
 
-Preview image of the diagrams listed above, in PDF files.
+_Images feature the rendered CAD model, and exported pages from the diagram pdf linked above_
+- ![rendering of the opengrow system](img/img_openGrow1.jpg)
 - ![diagram preview image](img/img_overview1.jpg)
-- ![diagram page2](img/img_overview2.jpg)
 - ![diagram page2](img/img_overview2.jpg)
 
 ## More Projects
